@@ -9,7 +9,8 @@ function App() {
   return (
     <>
 
-      {/* //* If using react routing, the route structure and pages should be here along with ShoppingPage */}
+      {/* //* If using react routing, the route structure and pages
+      //  should be here along with ShoppingPage */}
       <ShoppingPage />
 
     </>
